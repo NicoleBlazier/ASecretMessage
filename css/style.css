@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+
+}
+
+.container {
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-flow: row nowrap;
+    margin-top: 10rem;
+    height: 300px;
+}
+
+img {
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    margin: 2rem 0rem;
+}
+
+p {
+    background-color: white;
+    margin-top: 6rem;
+    margin: 6rem auto auto auto;
+}
